@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a student in application and web development and i'm passionate about solving real-world problems with code.
+I'm a student in application and web development, i'm passionate about solving real-world problems with code.
 
 
 
