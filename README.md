@@ -12,7 +12,7 @@ I'm a student in application and web development, i'm passionate about solving r
 
 🧠 I'm currently learning React Native. 
 
-⚡️ Fun fact: i'🤍 Art, Music, Drawing, Machine Learning
+⚡️ Fun fact: i'🤍 Art, Music, Drawing, Web Design, Machine Learning.
 
 
 ## 🛠 Skills
