@@ -10,7 +10,7 @@ I'm a student in application and web development, i'm passionate about solving r
 ## Other
 👩‍💻 I'm currently working on several small personal projects that I share on GitHub.
 
-🧠 I'm currently React Native. 
+🧠 I'm currently learning React Native. 
 
 ⚡️ Fun fact: i'🤍 Art, Music, Drawing, Machine Learning
 
