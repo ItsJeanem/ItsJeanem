@@ -16,7 +16,7 @@ I'm a student in application and web development, i'm passionate about solving r
 
 
 ## 🛠 Skills
-HTML & CSS/SCSS, JavaScript, Git, React.js, Node.js, 
+HTML & CSS/SCSS, JavaScript, TypeScript, Git, React.js, Node.js, 
 
 
 ## 🔗 Links
